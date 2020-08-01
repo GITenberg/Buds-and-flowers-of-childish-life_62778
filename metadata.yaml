@@ -1,5 +1,5 @@
 _repo: Buds-and-flowers-of-childish-life_62778
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Buds and blossoms of childish life
 contributor:
   illustrator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '31839'
     url: http://www.gutenberg.org/2009/agents/31839
     wikipedia: https://de.wikipedia.org/wiki/Oscar_Pletsch
+covers:
+- cover_type: archival
+  image_path: 62778-h/images/backcover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62778#Buds-and-flowers-of-childish-life
 gutenberg_issued: '2020-07-28'
 gutenberg_type: Text
 identifiers:
