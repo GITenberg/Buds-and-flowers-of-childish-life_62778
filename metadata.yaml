@@ -1,0 +1,38 @@
+_repo: Buds-and-flowers-of-childish-life_62778
+_version: 0.0.1
+alternative_title: Buds and blossoms of childish life
+contributor:
+  illustrator:
+    agent_name: Pletsch, Oscar
+    alias: Pletsch, Oskar
+    birthdate: 1830
+    deathdate: 1888
+    gutenberg_agent_id: '31839'
+    url: http://www.gutenberg.org/2009/agents/31839
+    wikipedia: https://de.wikipedia.org/wiki/Oscar_Pletsch
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2020-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- GITenberg
+title: Buds and flowers of childish life
+url: http://www.gutenberg.org/ebooks/62778
